@@ -1,0 +1,57 @@
+dashboard:
+  explainerfile: explainer/explainer_tree.joblib
+  params:
+    title: DecisionTree Explainer
+    name: null
+    description: "This dashboard shows the workings of a fitted\n            machine\
+      \ learning model, and explains its predictions."
+    simple: false
+    hide_header: false
+    header_hide_title: false
+    header_hide_selector: false
+    header_hide_download: false
+    hide_poweredby: false
+    block_selector_callbacks: false
+    pos_label: null
+    fluid: true
+    mode: dash
+    width: 1000
+    height: 800
+    bootstrap: null
+    external_stylesheets: null
+    url_base_pathname: '/dashboard1/'
+    server: True
+    routes_pathname_prefix: null
+    requests_pathname_prefix: null
+    responsive: true
+    logins: null
+    port: 8050
+    importances: true
+    model_summary: true
+    contributions: true
+    whatif: false
+    shap_dependence: false
+    shap_interaction: false
+    decision_trees: false
+    kwargs:
+      hide_classification: true
+      hide_globalcutoff: true
+      hide_cumprecision: true
+      hide_popout: true
+      hide_percentage: true
+      hide_bin: true
+      hide_footer: true
+      hide_pdp: true
+      hide_contributiontable: true
+      index_check: true
+      hide_interactionsummary: true
+      cutoff: 0.5
+      depth: 10
+      percentile: 0.5
+      multiclass: true
+      interact_col: past_3_years_bike_related_purchases
+      index: 45
+      orientation: horizontal
+    tabs: null
+
+
