@@ -7,6 +7,7 @@ To understand customer value among a group of new customers lacking transaction 
 ## Final WebApp on Heroku: https://app-db1-5d66c8de929e.herokuapp.com/
 
 ### 1. Model Development: 
+https://github.com/Primary43/kpmg-s-virtual-internship/blob/main/ModelDevelopment/Module_2_kpmg_slide.pdf
 - 1.1 Initially, an engineered target was obtained— a segmentation derived from the cluster of RFM (Recency, Frequency, Monetary value) model analyzing the behavior of existing customers with transaction records.
 <div align="center">
     <img src="https://github.com/Primary43/kpmg-s-virtual-internship/blob/main/asset/cluster.png", width=750>
