@@ -1,0 +1,196 @@
+,job_cluster,job_title
+0,0.0,Desktop Support Technician
+1,0.0,Food Chemist
+2,0.0,Pharmacist
+3,0.0,Paralegal
+4,0.0,Occupational Therapist
+5,0.0,Technical Writer
+6,0.0,Assistant Media Planner
+7,0.0,Legal Assistant
+8,0.0,Internal Auditor
+9,0.0,Social Worker
+10,0.0,Speech Pathologist
+11,0.0,Teacher
+12,0.0,Physical Therapy Assistant
+13,0.0,GIS Technical Architect
+14,0.0,Data Coordiator
+15,0.0,Actuary
+16,0.0,Dental Hygienist
+17,0.0,Librarian
+18,0.0,Recruiter
+19,1.0,Accountant IV
+20,1.0,Accountant III
+21,1.0,Accountant II
+22,1.0,Cost Accountant
+23,1.0,Tax Accountant
+24,1.0,Accountant I
+25,1.0,Senior Cost Accountant
+26,2.0,Structural Analysis Engineer
+27,2.0,Geological Engineer
+28,2.0,Nuclear Power Engineer
+29,2.0,Civil Engineer
+30,2.0,Structural Engineer
+31,2.0,Electrical Engineer
+32,2.0,Chemical Engineer
+33,2.0,Engineer II
+34,2.0,Engineer I
+35,2.0,Engineer III
+36,2.0,Engineer IV
+37,3.0,Clinical Specialist
+38,3.0,Community Outreach Specialist
+39,3.0,Environmental Tech
+40,3.0,Environmental Specialist
+41,4.0,Senior Developer
+42,4.0,Web Developer III
+43,4.0,Developer II
+44,4.0,Web Developer IV
+45,4.0,Web Developer I
+46,4.0,Developer IV
+47,4.0,Web Developer II
+48,4.0,Developer III
+49,4.0,Developer I
+50,5.0,Quality Engineer
+51,5.0,Quality Control Specialist
+52,5.0,VP Quality Control
+53,5.0,Senior Quality Engineer
+54,6.0,Software Engineer I
+55,6.0,Software Engineer III
+56,6.0,Software Engineer II
+57,6.0,Software Test Engineer III
+58,6.0,Software Test Engineer I
+59,6.0,Software Engineer IV
+60,6.0,Software Consultant
+61,6.0,Software Test Engineer IV
+62,6.0,Software Test Engineer II
+63,7.0,Sales Representative
+64,7.0,Director of Sales
+65,7.0,VP Accounting
+66,7.0,VP Sales
+67,8.0,Assistant Manager
+68,8.0,Recruiting Manager
+69,8.0,Project Manager
+70,8.0,General Manager
+71,9.0,Business Systems Development Analyst
+72,9.0,Information Systems Manager
+73,9.0,Compensation Analyst
+74,9.0,Mechanical Systems Engineer
+75,10.0,Registered Nurse
+76,10.0,Nurse
+77,10.0,Nurse Practicioner
+78,10.0,Research Nurse
+79,11.0,Web Designer II
+80,11.0,Graphic Designer
+81,11.0,Web Designer III
+82,11.0,Web Designer I
+83,11.0,Web Designer IV
+84,12.0,VP Marketing
+85,12.0,Marketing Assistant
+86,12.0,Marketing Manager
+87,13.0,Financial Advisor
+88,13.0,Financial Analyst
+89,13.0,Senior Financial Analyst
+90,14.0,Staff Scientist
+91,14.0,Staff Accountant II
+92,14.0,Staff Accountant III
+93,14.0,Staff Accountant I
+94,14.0,Staff Accountant IV
+95,15.0,Help Desk Operator
+96,15.0,Operator
+97,15.0,Help Desk Technician
+98,16.0,Analog Circuit Design manager
+99,16.0,Chief Design Engineer
+100,16.0,Design Engineer
+101,17.0,Product Engineer
+102,17.0,VP Product Management
+103,18.0,Account Coordinator
+104,18.0,Payment Adjustment Coordinator
+105,19.0,Administrative Officer
+106,19.0,Administrative Assistant IV
+107,19.0,Administrative Assistant III
+108,19.0,Administrative Assistant II
+109,19.0,Administrative Assistant I
+110,20.0,Systems Administrator III
+111,20.0,Systems Administrator IV
+112,20.0,Systems Administrator I
+113,20.0,Systems Administrator II
+114,21.0,Geologist III
+115,21.0,Geologist I
+116,21.0,Geologist IV
+117,21.0,Geologist II
+118,22.0,Research Assistant II
+119,22.0,Research Assistant IV
+120,22.0,Research Assistant I
+121,22.0,Research Assistant III
+122,23.0,Office Assistant III
+123,23.0,Office Assistant IV
+124,23.0,Office Assistant II
+125,23.0,Office Assistant I
+126,24.0,Analyst Programmer
+127,24.0,Programmer Analyst III
+128,24.0,Programmer Analyst IV
+129,24.0,Programmer I
+130,24.0,Programmer Analyst II
+131,24.0,Programmer II
+132,24.0,Programmer III
+133,24.0,Programmer IV
+134,24.0,Programmer Analyst I
+135,25.0,Human Resources Assistant III
+136,25.0,Human Resources Assistant II
+137,25.0,Human Resources Manager
+138,25.0,Human Resources Assistant I
+139,25.0,Human Resources Assistant IV
+140,26.0,Professor
+141,26.0,Associate Professor
+142,26.0,Assistant Professor
+143,27.0,Health Coach IV
+144,27.0,Health Coach II
+145,27.0,Health Coach I
+146,27.0,Health Coach III
+147,28.0,Executive Secretary
+148,28.0,Junior Executive
+149,28.0,Account Executive
+150,29.0,Budget/Accounting Analyst I
+151,29.0,Budget/Accounting Analyst IV
+152,29.0,Budget/Accounting Analyst III
+153,29.0,Budget/Accounting Analyst II
+154,30.0,Accounting Assistant III
+155,30.0,Accounting Assistant I
+156,30.0,Accounting Assistant II
+157,30.0,Accounting Assistant IV
+158,31.0,Safety Technician II
+159,31.0,Safety Technician III
+160,31.0,Safety Technician IV
+161,31.0,Safety Technician I
+162,32.0,Database Administrator IV
+163,32.0,Database Administrator III
+164,32.0,Database Administrator II
+165,32.0,Database Administrator I
+166,33.0,Account Representative IV
+167,33.0,Account Representative II
+168,33.0,Account Representative III
+169,33.0,Account Representative I
+170,34.0,Editor
+171,34.0,Senior Editor
+172,35.0,Computer Systems Analyst IV
+173,35.0,Computer Systems Analyst II
+174,35.0,Computer Systems Analyst I
+175,35.0,Computer Systems Analyst III
+176,36.0,Automation Specialist I
+177,36.0,Automation Specialist II
+178,36.0,Automation Specialist III
+179,36.0,Automation Specialist IV
+180,37.0,Biostatistician II
+181,37.0,Biostatistician IV
+182,37.0,Biostatistician III
+183,37.0,Biostatistician I
+184,38.0,Media Manager III
+185,38.0,Media Manager II
+186,38.0,Media Manager IV
+187,38.0,Media Manager I
+188,39.0,Statistician II
+189,39.0,Statistician IV
+190,39.0,Statistician III
+191,39.0,Statistician I
+192,40.0,Research Associate
+193,40.0,Sales Associate
+194,40.0,Senior Sales Associate
